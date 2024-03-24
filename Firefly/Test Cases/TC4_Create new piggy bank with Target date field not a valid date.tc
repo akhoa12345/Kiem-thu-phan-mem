@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Create new piggy bank with Target date field not a valid date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a030e9a5-4445-4bdd-af62-11dcec96386e</testCaseGuid>
+</TestCaseEntity>

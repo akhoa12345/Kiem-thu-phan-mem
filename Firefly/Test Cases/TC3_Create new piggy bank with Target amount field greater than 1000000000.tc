@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Create new piggy bank with Target amount field greater than 1000000000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>561f97af-e432-42f6-9d87-9bb1365b2eb0</testCaseGuid>
+</TestCaseEntity>

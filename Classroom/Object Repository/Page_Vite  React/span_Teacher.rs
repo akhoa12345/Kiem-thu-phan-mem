@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Teacher</name>
+   <tag></tag>
+   <elementGuidId>94c29618-ea17-4cb0-9166-9d4f1ab39186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='normal_signup_role']/label[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3483c1b-cfa7-46c3-8a95-11b78f749c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Teacher</value>
+      <webElementGuid>781a3e0d-8aaa-484d-b51a-00b88fac7826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;normal_signup_role&quot;)/label[@class=&quot;ant-radio-button-wrapper ant-radio-button-wrapper-in-form-item css-1g853jt&quot;]/span[2]</value>
+      <webElementGuid>266172eb-1821-4c68-84b5-6427c012df0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='normal_signup_role']/label[2]/span[2]</value>
+      <webElementGuid>95a92279-97b0-49ee-8651-9334151c80dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span[2]</value>
+      <webElementGuid>e7d05ed2-826a-4f39-ba85-30471454e547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Teacher' or . = 'Teacher')]</value>
+      <webElementGuid>cc2aea83-b1b9-475a-b893-e29808bb6d3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

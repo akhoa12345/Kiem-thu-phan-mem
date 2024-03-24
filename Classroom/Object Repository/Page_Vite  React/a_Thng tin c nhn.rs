@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thng tin c nhn</name>
+   <tag></tag>
+   <elementGuidId>62987651-8ab8-40ee-b939-85e2eec2b17d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/aside/div/ul/li[2]/span[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active > span.ant-menu-title-content > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d1a0fcd-32d6-4b2c-894a-bdb4f405eaa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user-profile</value>
+      <webElementGuid>08be1ad2-8878-4496-a43c-1446af05d50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin cá nhân</value>
+      <webElementGuid>ed8f6a39-612e-4cbb-b2ac-aef90d0316ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-layout layout css-1g853jt&quot;]/main[@class=&quot;ant-layout-content css-1g853jt&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-1g853jt&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light css-1g853jt&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/a[1]</value>
+      <webElementGuid>554e46a0-d5cd-4775-abb3-3827b1429801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/aside/div/ul/li[2]/span[2]/a</value>
+      <webElementGuid>bbf277dd-006f-4adf-8dd3-777f57ac52bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thông tin cá nhân')]</value>
+      <webElementGuid>d386a9cd-e45b-4881-a3b6-f2504fa5c6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user-profile')]</value>
+      <webElementGuid>079df916-d3a8-41c5-bf87-f2edc6cb284c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[2]/a</value>
+      <webElementGuid>110e62d1-67d5-4c49-9dc9-1a16e226be32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user-profile' and (text() = 'Thông tin cá nhân' or . = 'Thông tin cá nhân')]</value>
+      <webElementGuid>72851f05-b62f-4df3-b8b4-caeaa0c74537</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

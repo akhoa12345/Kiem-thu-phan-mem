@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17_Create a new transaction with Amount field greater than 1000000000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95d5f7f0-4d54-406c-9e5a-8c5df5259f5f</testCaseGuid>
+</TestCaseEntity>

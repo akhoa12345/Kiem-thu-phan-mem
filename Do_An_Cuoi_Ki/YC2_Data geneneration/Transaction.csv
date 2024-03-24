@@ -1,0 +1,1001 @@
+id,description,sourceAccount,destinationAccount,amount,date
+1,Music,Checking account in GBP,Cash wallet,323758913,6/1/2048
+2,Music,The house,Checking Account,604603828,12/26/2064
+3,Movies,Credit card in USD,DUO Student loans,427006536,12/4/2025
+4,Electronics,Shared Checking Account,Google Revenue,100995982,11/25/2063
+5,Toys,Checking Account,Google Revenue,935469517,9/20/2081
+6,Jewelry,Credit card in USD,Shared Checking Account,890025794,10/15/2067
+7,Industrial,DUO Student loans,AMEX Credit Card debt,138620169,12/15/2079
+8,Computers,Checking account in GBP,Checking Account,510197382,6/24/2098
+9,Home,DUO Student loans,Checking account in GBP,946810779,12/15/2080
+10,Baby,Credit card in USD,Checking Account,970231844,2/15/2083
+11,Industrial,Checking Account,Savings Account,74266358,5/27/2086
+12,Music,Checking Account,The house,827304256,9/8/2053
+13,Baby,Checking account in GBP,AMEX Credit Card debt,984182990,5/23/2032
+14,Outdoors,AMEX Credit Card debt,The house,996242902,2/25/2054
+15,Automotive,Shared Checking Account,The house,696715180,3/2/2083
+16,Sports,Checking Account,Google Revenue,580662666,7/21/2069
+17,Kids,The house,Shared Checking Account,668360775,8/28/2099
+18,Industrial,Checking account in GBP,Checking account in GBP,732783505,6/20/2062
+19,Automotive,Cash wallet,The house,739923470,12/4/2032
+20,Baby,Shared Checking Account,Checking Account,561300093,2/1/2069
+21,Industrial,DUO Student loans,AMEX Credit Card debt,55122823,6/19/2037
+22,Music,Cash wallet,Checking Account,512446128,7/28/2037
+23,Grocery,Google Revenue,Checking account in GBP,52684689,8/29/2034
+24,Automotive,Checking Account,Checking account in GBP,964136527,3/21/2037
+25,Toys,The house,Shared Checking Account,82542909,3/16/2033
+26,Movies,The house,DUO Student loans,629628147,2/27/2062
+27,Automotive,Checking account in GBP,Savings Account,197875498,2/12/2028
+28,Computers,Savings Account,Shared Checking Account,204725087,6/16/2080
+29,Beauty,Checking Account,AMEX Credit Card debt,145673820,3/27/2087
+30,Health,Savings Account,Savings Account,350237731,4/7/2057
+31,Jewelry,Google Revenue,Checking account in GBP,156118620,6/2/2024
+32,Jewelry,Savings Account,Cash wallet,907027769,11/6/2065
+33,Sports,Savings Account,Credit card in USD,146931456,8/23/2074
+34,Home,Cash wallet,Google Revenue,42647642,2/8/2095
+35,Toys,Shared Checking Account,Checking account in GBP,665611011,9/28/2072
+36,Games,Google Revenue,Credit card in USD,242099499,1/20/2039
+37,Health,Credit card in USD,Shared Checking Account,672814329,12/14/2053
+38,Computers,Checking Account,Shared Checking Account,623602416,6/20/2088
+39,Computers,Savings Account,Shared Checking Account,274602081,11/14/2038
+40,Tools,Credit card in USD,Savings Account,57297996,7/13/2061
+41,Grocery,The house,Cash wallet,439779202,10/19/2031
+42,Shoes,Checking account in GBP,Checking account in GBP,185160768,4/3/2048
+43,Clothing,DUO Student loans,AMEX Credit Card debt,95113939,4/26/2029
+44,Baby,Checking Account,Checking Account,88016236,1/1/2052
+45,Baby,Checking Account,AMEX Credit Card debt,720308228,6/28/2065
+46,Health,Savings Account,Savings Account,703957229,1/20/2039
+47,Shoes,DUO Student loans,AMEX Credit Card debt,566364469,11/28/2093
+48,Computers,AMEX Credit Card debt,AMEX Credit Card debt,292399574,10/27/2029
+49,Outdoors,Credit card in USD,Credit card in USD,681430935,11/4/2056
+50,Health,The house,Cash wallet,317197005,2/28/2056
+51,Beauty,Checking account in GBP,Google Revenue,65614283,9/20/2034
+52,Baby,Checking account in GBP,Checking account in GBP,201964363,8/1/2041
+53,Sports,Checking account in GBP,Savings Account,949980584,3/10/2068
+54,Industrial,AMEX Credit Card debt,Google Revenue,760679655,8/4/2033
+55,Clothing,Checking Account,DUO Student loans,504050716,8/19/2042
+56,Home,The house,DUO Student loans,127088276,7/26/2073
+57,Toys,DUO Student loans,Credit card in USD,256735250,11/19/2080
+58,Industrial,Savings Account,The house,493675418,10/29/2025
+59,Home,Checking Account,Savings Account,257220949,4/15/2095
+60,Toys,Checking Account,Savings Account,263483776,5/4/2027
+61,Industrial,Checking account in GBP,Cash wallet,24255285,9/2/2026
+62,Garden,Savings Account,AMEX Credit Card debt,634001990,10/23/2033
+63,Jewelry,Checking Account,Checking account in GBP,388561715,3/10/2083
+64,Automotive,Credit card in USD,Checking account in GBP,51482766,2/8/2060
+65,Industrial,Cash wallet,Shared Checking Account,468050940,1/3/2030
+66,Industrial,The house,Savings Account,953349535,8/22/2055
+67,Home,Shared Checking Account,The house,822051063,2/4/2073
+68,Home,Checking Account,Checking Account,993296329,10/20/2053
+69,Health,Credit card in USD,The house,173959177,2/3/2066
+70,Movies,Savings Account,Checking account in GBP,471202086,12/19/2071
+71,Electronics,Checking Account,DUO Student loans,474680674,11/15/2041
+72,Computers,Savings Account,The house,951672532,7/24/2092
+73,Tools,The house,Google Revenue,454874922,3/31/2063
+74,Outdoors,DUO Student loans,Cash wallet,988213037,11/12/2034
+75,Jewelry,Checking account in GBP,Cash wallet,266975176,4/14/2051
+76,Outdoors,The house,AMEX Credit Card debt,460441847,6/2/2099
+77,Home,Checking Account,Checking account in GBP,169158664,10/20/2054
+78,Books,Shared Checking Account,Cash wallet,342690956,6/28/2040
+79,Grocery,Checking Account,Checking account in GBP,763594982,1/31/2025
+80,Automotive,Checking account in GBP,Shared Checking Account,870634663,3/9/2072
+81,Garden,Checking account in GBP,Credit card in USD,809752046,12/2/2029
+82,Movies,Google Revenue,Savings Account,74406007,2/15/2033
+83,Jewelry,AMEX Credit Card debt,Credit card in USD,396019102,2/23/2030
+84,Garden,Google Revenue,Google Revenue,114916247,10/7/2028
+85,Toys,The house,Savings Account,788246546,10/15/2038
+86,Clothing,Savings Account,AMEX Credit Card debt,720715477,11/7/2069
+87,Tools,DUO Student loans,AMEX Credit Card debt,36747348,1/27/2095
+88,Automotive,AMEX Credit Card debt,DUO Student loans,896433746,7/8/2099
+89,Baby,DUO Student loans,Checking Account,798432702,2/22/2061
+90,Home,AMEX Credit Card debt,Shared Checking Account,50731873,5/31/2061
+91,Health,The house,Checking account in GBP,232065455,5/28/2039
+92,Toys,Savings Account,AMEX Credit Card debt,657754084,2/17/2080
+93,Kids,DUO Student loans,Checking account in GBP,159665772,12/9/2028
+94,Electronics,Checking Account,Cash wallet,387543405,9/11/2045
+95,Books,DUO Student loans,Checking Account,806213813,4/3/2079
+96,Books,Google Revenue,Credit card in USD,227327478,9/21/2043
+97,Computers,Savings Account,The house,505836831,6/7/2026
+98,Beauty,Credit card in USD,DUO Student loans,914649682,12/27/2075
+99,Computers,Checking account in GBP,Cash wallet,715562873,1/16/2051
+100,Computers,Google Revenue,Credit card in USD,158746158,10/16/2055
+101,Sports,AMEX Credit Card debt,Credit card in USD,588859249,10/20/2024
+102,Industrial,Checking account in GBP,Checking Account,924923826,2/6/2045
+103,Outdoors,DUO Student loans,Google Revenue,468563179,6/3/2081
+104,Health,Google Revenue,DUO Student loans,789311509,9/15/2058
+105,Home,Shared Checking Account,AMEX Credit Card debt,189925923,9/4/2062
+106,Books,Checking Account,Credit card in USD,629192041,1/11/2024
+107,Toys,Cash wallet,Checking account in GBP,589117067,6/13/2086
+108,Home,Cash wallet,Shared Checking Account,446716393,11/13/2046
+109,Jewelry,AMEX Credit Card debt,Checking account in GBP,242536594,2/12/2080
+110,Electronics,Checking Account,Checking account in GBP,409803903,9/5/2086
+111,Jewelry,Savings Account,DUO Student loans,885493510,1/27/2080
+112,Books,Google Revenue,The house,561706639,1/29/2082
+113,Baby,Shared Checking Account,Credit card in USD,58486016,6/22/2087
+114,Garden,DUO Student loans,Credit card in USD,323118710,7/3/2033
+115,Shoes,Checking account in GBP,Savings Account,832643643,12/9/2065
+116,Industrial,Checking Account,Cash wallet,630912721,5/1/2092
+117,Clothing,AMEX Credit Card debt,Checking account in GBP,469727519,4/30/2058
+118,Tools,Savings Account,Credit card in USD,221446867,10/19/2057
+119,Computers,Credit card in USD,Checking account in GBP,517528546,2/18/2054
+120,Outdoors,DUO Student loans,The house,797823974,8/28/2031
+121,Movies,Checking account in GBP,Checking Account,723501721,3/15/2071
+122,Tools,AMEX Credit Card debt,Credit card in USD,685916336,7/16/2053
+123,Shoes,DUO Student loans,Credit card in USD,375540446,3/10/2053
+124,Industrial,Checking Account,Savings Account,725373779,5/22/2095
+125,Music,DUO Student loans,Shared Checking Account,816652828,4/14/2032
+126,Health,AMEX Credit Card debt,AMEX Credit Card debt,340478595,12/24/2052
+127,Grocery,Google Revenue,Checking account in GBP,842393296,5/31/2080
+128,Books,Shared Checking Account,Credit card in USD,156075811,12/12/2082
+129,Toys,The house,Savings Account,161604549,3/14/2060
+130,Health,Cash wallet,DUO Student loans,786117261,2/17/2069
+131,Toys,Savings Account,AMEX Credit Card debt,234338413,4/3/2070
+132,Outdoors,Credit card in USD,Checking account in GBP,549291583,12/16/2039
+133,Sports,AMEX Credit Card debt,AMEX Credit Card debt,412991145,11/26/2052
+134,Home,Google Revenue,AMEX Credit Card debt,100453596,12/8/2039
+135,Grocery,The house,DUO Student loans,846902873,5/14/2098
+136,Games,Google Revenue,AMEX Credit Card debt,464844077,2/7/2055
+137,Games,Google Revenue,Google Revenue,673493314,4/8/2068
+138,Computers,Checking Account,DUO Student loans,649088841,3/5/2051
+139,Beauty,Savings Account,DUO Student loans,105911865,12/10/2033
+140,Tools,Google Revenue,Credit card in USD,61850649,1/31/2039
+141,Games,Savings Account,Checking Account,914409930,1/5/2044
+142,Garden,Credit card in USD,The house,643984529,12/12/2083
+143,Baby,Cash wallet,Checking Account,373117809,2/12/2096
+144,Music,The house,Checking account in GBP,684681410,9/7/2028
+145,Automotive,Cash wallet,Savings Account,970927166,2/12/2037
+146,Sports,Google Revenue,Savings Account,912639353,2/20/2087
+147,Music,Savings Account,Savings Account,410845934,5/18/2071
+148,Automotive,Savings Account,DUO Student loans,686109060,6/2/2072
+149,Kids,DUO Student loans,Cash wallet,664107545,7/5/2084
+150,Health,Google Revenue,Cash wallet,695840427,12/13/2072
+151,Jewelry,Google Revenue,AMEX Credit Card debt,548141695,10/7/2033
+152,Books,Google Revenue,AMEX Credit Card debt,295352578,3/18/2078
+153,Beauty,Cash wallet,Checking Account,999024125,4/11/2092
+154,Baby,Cash wallet,DUO Student loans,175798323,4/8/2047
+155,Grocery,Google Revenue,Credit card in USD,344506542,7/29/2088
+156,Shoes,Cash wallet,AMEX Credit Card debt,763441647,11/6/2030
+157,Games,DUO Student loans,AMEX Credit Card debt,510105606,6/11/2063
+158,Tools,AMEX Credit Card debt,Google Revenue,725745153,1/15/2039
+159,Automotive,Checking account in GBP,Shared Checking Account,780335257,6/27/2049
+160,Industrial,Savings Account,Credit card in USD,194430196,5/21/2077
+161,Toys,Google Revenue,Shared Checking Account,107750172,11/4/2064
+162,Music,Checking account in GBP,DUO Student loans,853313667,6/17/2092
+163,Jewelry,Google Revenue,Checking Account,824967790,10/7/2076
+164,Grocery,Credit card in USD,Shared Checking Account,693267558,6/30/2089
+165,Baby,Checking account in GBP,AMEX Credit Card debt,204390910,6/21/2058
+166,Movies,Savings Account,Google Revenue,988876679,11/11/2048
+167,Movies,DUO Student loans,DUO Student loans,457062269,1/25/2084
+168,Toys,AMEX Credit Card debt,Savings Account,798933380,7/18/2032
+169,Home,Shared Checking Account,Credit card in USD,951614613,8/20/2081
+170,Automotive,Shared Checking Account,Cash wallet,133979120,5/14/2093
+171,Industrial,The house,Credit card in USD,487065499,10/26/2037
+172,Movies,DUO Student loans,AMEX Credit Card debt,157971091,10/2/2061
+173,Music,The house,The house,683513319,7/28/2031
+174,Garden,Savings Account,Checking account in GBP,920722193,3/10/2080
+175,Automotive,The house,AMEX Credit Card debt,137132393,6/3/2037
+176,Computers,Checking Account,Google Revenue,687960618,5/6/2094
+177,Clothing,The house,Checking Account,856275645,8/9/2073
+178,Games,AMEX Credit Card debt,Savings Account,913678627,9/23/2030
+179,Music,Google Revenue,Cash wallet,405978892,9/3/2049
+180,Books,Checking account in GBP,Shared Checking Account,51586682,1/8/2071
+181,Garden,The house,Cash wallet,973303915,7/23/2047
+182,Movies,Google Revenue,Cash wallet,957899518,5/16/2070
+183,Electronics,Credit card in USD,Shared Checking Account,287254491,9/22/2058
+184,Home,Shared Checking Account,Checking Account,447437356,11/29/2065
+185,Beauty,Cash wallet,Google Revenue,401371774,9/5/2082
+186,Outdoors,Checking account in GBP,Credit card in USD,640964430,10/7/2070
+187,Garden,Shared Checking Account,Savings Account,883379275,12/10/2050
+188,Grocery,Shared Checking Account,Savings Account,296201947,10/4/2044
+189,Sports,The house,DUO Student loans,510183549,9/7/2095
+190,Music,The house,Shared Checking Account,780082217,6/10/2026
+191,Automotive,Checking account in GBP,Savings Account,889366316,4/18/2089
+192,Music,Credit card in USD,Shared Checking Account,111293727,2/19/2037
+193,Grocery,DUO Student loans,Credit card in USD,525124062,11/6/2057
+194,Music,DUO Student loans,Credit card in USD,630089745,2/6/2054
+195,Sports,Savings Account,DUO Student loans,353392296,11/8/2041
+196,Health,Google Revenue,Checking account in GBP,870667740,8/20/2088
+197,Kids,Shared Checking Account,Savings Account,143380004,12/29/2078
+198,Grocery,Checking account in GBP,Checking account in GBP,732013822,6/18/2096
+199,Jewelry,Shared Checking Account,Checking account in GBP,205107733,1/2/2047
+200,Beauty,Cash wallet,Checking account in GBP,126857694,6/23/2081
+201,Jewelry,Shared Checking Account,Shared Checking Account,885112736,2/21/2089
+202,Computers,Shared Checking Account,Cash wallet,116775172,6/9/2070
+203,Books,Checking Account,DUO Student loans,628664712,3/24/2033
+204,Baby,Credit card in USD,Credit card in USD,436651329,11/5/2069
+205,Jewelry,Google Revenue,Google Revenue,579020046,5/30/2025
+206,Books,Credit card in USD,AMEX Credit Card debt,465360196,8/26/2058
+207,Health,Checking Account,Checking Account,60201546,11/30/2059
+208,Kids,Shared Checking Account,Cash wallet,665785233,6/29/2098
+209,Jewelry,Cash wallet,DUO Student loans,585957787,7/14/2062
+210,Games,AMEX Credit Card debt,The house,765192026,6/24/2040
+211,Health,DUO Student loans,Shared Checking Account,167699957,12/11/2043
+212,Clothing,AMEX Credit Card debt,Google Revenue,224238477,9/6/2030
+213,Sports,Credit card in USD,Credit card in USD,599287108,3/11/2077
+214,Garden,Shared Checking Account,The house,10287938,5/15/2063
+215,Industrial,Checking Account,Cash wallet,232089576,5/9/2042
+216,Automotive,Checking Account,Savings Account,50552991,6/15/2041
+217,Movies,Shared Checking Account,AMEX Credit Card debt,185151096,3/6/2032
+218,Shoes,Shared Checking Account,Google Revenue,212937359,6/4/2071
+219,Grocery,Credit card in USD,Cash wallet,554556441,9/22/2056
+220,Books,Shared Checking Account,Checking account in GBP,388284035,9/7/2067
+221,Garden,DUO Student loans,AMEX Credit Card debt,827098355,1/25/2070
+222,Health,Checking Account,Credit card in USD,826195207,8/11/2046
+223,Grocery,The house,AMEX Credit Card debt,555113940,8/10/2093
+224,Grocery,Cash wallet,Credit card in USD,734246272,7/13/2057
+225,Shoes,Credit card in USD,Savings Account,40421369,10/31/2044
+226,Clothing,Cash wallet,Credit card in USD,898669360,7/9/2077
+227,Games,Checking account in GBP,Google Revenue,175413448,4/17/2040
+228,Movies,Savings Account,Savings Account,582486092,10/31/2071
+229,Beauty,Checking Account,Shared Checking Account,704623590,11/20/2031
+230,Electronics,Credit card in USD,Shared Checking Account,141661687,3/12/2030
+231,Outdoors,The house,AMEX Credit Card debt,149236108,11/15/2074
+232,Garden,Savings Account,Shared Checking Account,36031307,4/23/2029
+233,Music,Shared Checking Account,Checking Account,987592516,2/28/2027
+234,Shoes,Savings Account,DUO Student loans,377696707,8/3/2040
+235,Toys,Google Revenue,Credit card in USD,819741218,8/10/2088
+236,Grocery,AMEX Credit Card debt,Savings Account,61809962,12/12/2057
+237,Books,The house,Checking Account,699075879,3/7/2040
+238,Movies,DUO Student loans,Google Revenue,874071227,1/19/2075
+239,Sports,Shared Checking Account,DUO Student loans,345345664,4/30/2024
+240,Home,Shared Checking Account,DUO Student loans,883844528,5/15/2049
+241,Automotive,The house,Credit card in USD,100930283,4/16/2024
+242,Toys,AMEX Credit Card debt,The house,513193586,3/26/2073
+243,Movies,Savings Account,Credit card in USD,981404201,4/18/2060
+244,Jewelry,Shared Checking Account,AMEX Credit Card debt,874465256,4/7/2056
+245,Health,Checking Account,Shared Checking Account,959119585,3/28/2037
+246,Books,DUO Student loans,AMEX Credit Card debt,794964004,6/16/2054
+247,Beauty,Cash wallet,AMEX Credit Card debt,75286612,10/30/2064
+248,Health,Checking account in GBP,Checking account in GBP,997535760,3/4/2024
+249,Clothing,The house,AMEX Credit Card debt,401760183,2/9/2029
+250,Beauty,Google Revenue,DUO Student loans,862461555,6/23/2084
+251,Shoes,AMEX Credit Card debt,DUO Student loans,926395646,12/13/2053
+252,Sports,Credit card in USD,Checking Account,742401014,4/21/2075
+253,Garden,Checking account in GBP,Google Revenue,383504896,3/11/2072
+254,Beauty,Savings Account,DUO Student loans,842531161,12/4/2084
+255,Grocery,Checking account in GBP,Cash wallet,591711810,12/31/2081
+256,Grocery,Shared Checking Account,DUO Student loans,19516779,3/10/2049
+257,Health,Checking account in GBP,Checking Account,674831477,11/5/2091
+258,Outdoors,Cash wallet,Cash wallet,26273934,4/5/2061
+259,Jewelry,Credit card in USD,Credit card in USD,805322966,2/29/2052
+260,Movies,Credit card in USD,The house,445233025,5/7/2065
+261,Computers,Checking account in GBP,Checking Account,738763178,10/22/2037
+262,Home,Savings Account,DUO Student loans,354266809,11/5/2087
+263,Games,AMEX Credit Card debt,Credit card in USD,607832773,4/11/2037
+264,Garden,Checking account in GBP,Cash wallet,1990671,10/4/2046
+265,Health,The house,AMEX Credit Card debt,87813207,6/21/2025
+266,Shoes,Cash wallet,Google Revenue,460240443,2/19/2052
+267,Baby,DUO Student loans,Cash wallet,163339735,6/9/2086
+268,Kids,Credit card in USD,DUO Student loans,725853003,11/2/2060
+269,Industrial,DUO Student loans,Cash wallet,890203331,1/23/2051
+270,Outdoors,DUO Student loans,Shared Checking Account,617426999,8/10/2030
+271,Movies,Checking Account,The house,574554386,6/14/2082
+272,Baby,DUO Student loans,DUO Student loans,688964547,1/17/2039
+273,Health,Cash wallet,The house,49509519,12/10/2027
+274,Toys,Shared Checking Account,Google Revenue,276620625,9/26/2055
+275,Tools,DUO Student loans,Checking account in GBP,354692017,4/1/2052
+276,Garden,Credit card in USD,Checking Account,619228070,11/20/2070
+277,Electronics,Google Revenue,Shared Checking Account,780563515,12/19/2038
+278,Shoes,AMEX Credit Card debt,Cash wallet,644678084,8/9/2036
+279,Sports,AMEX Credit Card debt,Cash wallet,433876473,3/24/2027
+280,Home,Checking Account,Credit card in USD,522440261,6/20/2046
+281,Music,Google Revenue,DUO Student loans,718804404,4/10/2074
+282,Baby,DUO Student loans,Credit card in USD,818887593,7/9/2085
+283,Electronics,Shared Checking Account,Cash wallet,367743536,5/10/2070
+284,Industrial,The house,The house,440853588,1/26/2053
+285,Industrial,Savings Account,Cash wallet,785396698,2/4/2072
+286,Sports,Google Revenue,Checking Account,622804864,11/30/2049
+287,Health,The house,Google Revenue,929573291,2/10/2064
+288,Games,Shared Checking Account,Savings Account,720738532,10/21/2085
+289,Garden,Cash wallet,Checking account in GBP,620689103,9/27/2098
+290,Health,Cash wallet,The house,800725769,6/18/2078
+291,Music,Cash wallet,Cash wallet,154123213,9/19/2041
+292,Home,Savings Account,Shared Checking Account,254005103,8/21/2078
+293,Clothing,Checking account in GBP,Checking account in GBP,316863087,5/16/2068
+294,Garden,The house,Credit card in USD,639493,11/23/2056
+295,Industrial,Checking account in GBP,Checking Account,794849078,12/3/2049
+296,Tools,Credit card in USD,Credit card in USD,657223741,8/10/2035
+297,Clothing,Cash wallet,Google Revenue,447562078,2/12/2056
+298,Shoes,The house,AMEX Credit Card debt,405168838,4/8/2056
+299,Music,Credit card in USD,AMEX Credit Card debt,938096395,3/22/2070
+300,Music,The house,Cash wallet,762213073,6/26/2034
+301,Movies,Google Revenue,The house,646243899,6/14/2028
+302,Clothing,Google Revenue,AMEX Credit Card debt,424087698,5/8/2075
+303,Grocery,Cash wallet,Cash wallet,2135655,6/27/2035
+304,Kids,Google Revenue,Savings Account,350548204,5/25/2025
+305,Clothing,DUO Student loans,Credit card in USD,65395064,2/7/2090
+306,Industrial,The house,Google Revenue,193342166,7/11/2031
+307,Jewelry,DUO Student loans,Cash wallet,753903048,1/8/2035
+308,Health,DUO Student loans,Credit card in USD,840969419,5/17/2094
+309,Home,Checking account in GBP,Credit card in USD,54037406,9/18/2057
+310,Health,The house,Google Revenue,575882814,4/22/2095
+311,Garden,Google Revenue,Shared Checking Account,441458676,9/16/2053
+312,Toys,Google Revenue,DUO Student loans,357201894,12/18/2033
+313,Automotive,Checking Account,Google Revenue,339806377,1/12/2078
+314,Baby,The house,Checking Account,232104646,7/14/2099
+315,Books,Google Revenue,AMEX Credit Card debt,742456885,7/16/2096
+316,Toys,Cash wallet,Checking account in GBP,399714654,2/29/2024
+317,Kids,Shared Checking Account,Shared Checking Account,173376380,12/22/2046
+318,Grocery,Credit card in USD,Google Revenue,72203366,2/2/2056
+319,Automotive,AMEX Credit Card debt,DUO Student loans,369539221,8/12/2073
+320,Sports,Checking account in GBP,Google Revenue,463073247,10/22/2069
+321,Shoes,AMEX Credit Card debt,AMEX Credit Card debt,635557906,3/15/2078
+322,Industrial,Google Revenue,DUO Student loans,828766378,5/2/2052
+323,Home,Shared Checking Account,Credit card in USD,808793681,7/4/2068
+324,Grocery,AMEX Credit Card debt,Cash wallet,698419803,12/22/2027
+325,Shoes,Google Revenue,Credit card in USD,781081264,12/8/2096
+326,Games,Credit card in USD,Checking account in GBP,207543826,1/7/2075
+327,Grocery,Credit card in USD,Checking Account,685517952,9/28/2057
+328,Games,The house,Savings Account,324368082,12/21/2071
+329,Health,Credit card in USD,Cash wallet,941963507,6/14/2091
+330,Electronics,DUO Student loans,AMEX Credit Card debt,622914735,5/17/2088
+331,Sports,Credit card in USD,Checking Account,798762678,9/1/2089
+332,Shoes,Shared Checking Account,Shared Checking Account,423298715,3/5/2073
+333,Movies,AMEX Credit Card debt,Cash wallet,517596756,10/13/2060
+334,Outdoors,Checking Account,Google Revenue,596380951,5/24/2081
+335,Music,Savings Account,Checking Account,564926622,7/1/2059
+336,Tools,Google Revenue,Cash wallet,897406749,3/31/2034
+337,Garden,Cash wallet,Credit card in USD,663126789,12/2/2041
+338,Outdoors,DUO Student loans,Google Revenue,625311548,8/4/2051
+339,Computers,Credit card in USD,Checking account in GBP,913350969,7/23/2045
+340,Automotive,AMEX Credit Card debt,AMEX Credit Card debt,27836295,12/30/2028
+341,Baby,Savings Account,DUO Student loans,802765039,12/15/2087
+342,Health,Cash wallet,Google Revenue,170501300,9/22/2099
+343,Tools,Credit card in USD,Google Revenue,536200441,4/1/2086
+344,Shoes,Cash wallet,Credit card in USD,878205213,2/24/2077
+345,Clothing,Cash wallet,The house,806669557,6/22/2031
+346,Health,Shared Checking Account,AMEX Credit Card debt,197480057,6/9/2029
+347,Kids,Credit card in USD,Checking account in GBP,359168963,4/3/2039
+348,Shoes,The house,Checking account in GBP,347801669,6/1/2078
+349,Clothing,Savings Account,The house,632314264,9/21/2074
+350,Health,DUO Student loans,DUO Student loans,971500639,6/29/2071
+351,Clothing,DUO Student loans,Checking Account,521939830,8/19/2082
+352,Movies,Shared Checking Account,AMEX Credit Card debt,394319878,9/12/2072
+353,Home,Savings Account,DUO Student loans,45977507,3/20/2074
+354,Grocery,Checking account in GBP,Checking Account,414258599,1/24/2092
+355,Electronics,DUO Student loans,Shared Checking Account,356864140,11/8/2041
+356,Music,Shared Checking Account,Checking Account,794636202,1/22/2066
+357,Health,Shared Checking Account,Google Revenue,16148076,10/30/2055
+358,Industrial,DUO Student loans,Shared Checking Account,67928940,6/7/2044
+359,Sports,DUO Student loans,Checking account in GBP,597632583,1/25/2031
+360,Garden,Credit card in USD,Shared Checking Account,368370836,5/25/2030
+361,Baby,Google Revenue,Credit card in USD,638716223,3/22/2098
+362,Music,Credit card in USD,Cash wallet,443190775,5/4/2078
+363,Industrial,AMEX Credit Card debt,Google Revenue,844669410,6/24/2040
+364,Sports,Checking Account,DUO Student loans,809836378,6/1/2078
+365,Music,Shared Checking Account,The house,642091185,2/4/2090
+366,Baby,Cash wallet,Checking account in GBP,854630754,12/30/2051
+367,Books,Cash wallet,AMEX Credit Card debt,834841958,12/25/2092
+368,Movies,Checking account in GBP,Google Revenue,505590262,12/1/2080
+369,Beauty,Shared Checking Account,The house,439748107,4/30/2091
+370,Toys,Google Revenue,Credit card in USD,726487634,6/5/2052
+371,Jewelry,Shared Checking Account,Google Revenue,778035477,7/31/2090
+372,Automotive,DUO Student loans,Checking Account,463573304,9/2/2028
+373,Books,The house,Cash wallet,762545899,8/5/2024
+374,Books,Credit card in USD,DUO Student loans,788342404,9/8/2042
+375,Music,Credit card in USD,Google Revenue,773370404,6/19/2080
+376,Baby,DUO Student loans,AMEX Credit Card debt,819989885,1/8/2092
+377,Electronics,Savings Account,Google Revenue,583025725,7/27/2065
+378,Electronics,Savings Account,AMEX Credit Card debt,43920490,10/17/2042
+379,Tools,Checking account in GBP,The house,123515007,3/30/2036
+380,Sports,Checking Account,Google Revenue,314432980,5/27/2081
+381,Kids,Cash wallet,Google Revenue,76813098,7/20/2054
+382,Garden,Google Revenue,AMEX Credit Card debt,370643971,12/27/2040
+383,Automotive,The house,DUO Student loans,614775602,8/10/2091
+384,Movies,Cash wallet,AMEX Credit Card debt,962417888,1/12/2058
+385,Automotive,Shared Checking Account,Credit card in USD,839807626,11/26/2035
+386,Music,AMEX Credit Card debt,Google Revenue,233544317,11/18/2097
+387,Automotive,Checking Account,Checking account in GBP,334776965,12/5/2086
+388,Health,Shared Checking Account,Shared Checking Account,638882983,5/18/2053
+389,Automotive,AMEX Credit Card debt,Shared Checking Account,533864284,10/1/2063
+390,Home,Credit card in USD,Google Revenue,835720147,7/9/2025
+391,Movies,Cash wallet,Savings Account,800578665,2/14/2026
+392,Games,Cash wallet,The house,626928771,4/11/2050
+393,Jewelry,Shared Checking Account,DUO Student loans,444179737,3/17/2035
+394,Books,Checking account in GBP,Checking Account,955094614,12/31/2050
+395,Grocery,The house,Cash wallet,695920136,11/21/2060
+396,Music,Cash wallet,Credit card in USD,395605715,8/19/2096
+397,Sports,Cash wallet,AMEX Credit Card debt,438407892,1/26/2068
+398,Health,The house,DUO Student loans,120784429,10/21/2032
+399,Grocery,Savings Account,The house,734048293,8/19/2035
+400,Books,DUO Student loans,Cash wallet,321287476,12/20/2042
+401,Kids,The house,Checking account in GBP,457239595,5/2/2052
+402,Music,Google Revenue,Checking account in GBP,327438171,10/26/2024
+403,Industrial,Savings Account,Google Revenue,330166951,4/22/2089
+404,Shoes,Shared Checking Account,The house,535401571,12/26/2085
+405,Health,Credit card in USD,Credit card in USD,651880277,5/18/2064
+406,Shoes,Shared Checking Account,Credit card in USD,382958922,3/12/2045
+407,Baby,Google Revenue,Cash wallet,373546174,9/30/2073
+408,Sports,The house,Checking Account,854941100,1/28/2087
+409,Outdoors,Google Revenue,Credit card in USD,142929628,11/17/2040
+410,Sports,Savings Account,Checking account in GBP,102671169,2/7/2037
+411,Kids,Credit card in USD,Google Revenue,334569447,4/29/2066
+412,Garden,DUO Student loans,Shared Checking Account,376542203,7/6/2096
+413,Sports,Checking account in GBP,DUO Student loans,888405551,5/8/2086
+414,Outdoors,AMEX Credit Card debt,Shared Checking Account,809876614,5/18/2042
+415,Health,Credit card in USD,Cash wallet,248034052,11/18/2064
+416,Grocery,Savings Account,AMEX Credit Card debt,512587847,9/4/2026
+417,Toys,Savings Account,DUO Student loans,143074404,8/20/2094
+418,Movies,AMEX Credit Card debt,The house,969405956,9/30/2088
+419,Beauty,Credit card in USD,Shared Checking Account,290971742,11/6/2072
+420,Music,The house,Shared Checking Account,632342910,11/6/2082
+421,Outdoors,The house,Shared Checking Account,773892751,3/29/2075
+422,Books,DUO Student loans,Credit card in USD,606195356,6/6/2095
+423,Grocery,The house,Credit card in USD,260997259,10/21/2077
+424,Garden,Checking Account,Credit card in USD,183918040,3/5/2096
+425,Automotive,Checking account in GBP,Checking account in GBP,545700217,11/9/2076
+426,Electronics,The house,Credit card in USD,524264645,5/23/2044
+427,Grocery,The house,Checking Account,425966995,7/6/2057
+428,Electronics,Shared Checking Account,DUO Student loans,552968445,8/7/2040
+429,Garden,Checking Account,Cash wallet,681636872,10/21/2070
+430,Outdoors,Google Revenue,The house,675799847,1/11/2096
+431,Kids,Credit card in USD,Credit card in USD,556133214,1/5/2086
+432,Shoes,Cash wallet,Google Revenue,399365738,12/19/2058
+433,Toys,The house,Shared Checking Account,678340224,11/19/2040
+434,Movies,Google Revenue,Checking Account,644533282,5/14/2062
+435,Movies,Checking account in GBP,DUO Student loans,399747539,8/28/2051
+436,Kids,AMEX Credit Card debt,Shared Checking Account,538000232,12/1/2047
+437,Home,Shared Checking Account,Savings Account,5282078,2/1/2089
+438,Sports,DUO Student loans,The house,23696623,12/28/2058
+439,Garden,Checking account in GBP,DUO Student loans,60985910,6/5/2055
+440,Toys,Checking Account,Savings Account,937007595,1/20/2057
+441,Grocery,Shared Checking Account,Checking Account,345365022,5/3/2086
+442,Shoes,Checking account in GBP,Shared Checking Account,923838482,3/19/2065
+443,Shoes,Checking account in GBP,Cash wallet,747980550,12/22/2025
+444,Sports,Credit card in USD,Shared Checking Account,354833199,5/25/2044
+445,Industrial,The house,Cash wallet,477327884,8/13/2059
+446,Outdoors,DUO Student loans,Checking account in GBP,98093716,10/4/2042
+447,Industrial,Google Revenue,Checking account in GBP,423288421,12/5/2046
+448,Tools,Checking Account,Shared Checking Account,377257654,12/18/2060
+449,Outdoors,Shared Checking Account,Shared Checking Account,884394534,9/5/2053
+450,Jewelry,Google Revenue,Cash wallet,353858782,3/18/2066
+451,Computers,DUO Student loans,Shared Checking Account,38765290,12/30/2081
+452,Beauty,AMEX Credit Card debt,DUO Student loans,93665866,10/6/2083
+453,Jewelry,Savings Account,DUO Student loans,557635494,11/13/2070
+454,Grocery,Cash wallet,Savings Account,62736723,12/9/2047
+455,Garden,DUO Student loans,Checking Account,63189817,10/16/2047
+456,Clothing,Cash wallet,Checking account in GBP,675945302,10/31/2078
+457,Computers,The house,Savings Account,146915605,8/15/2081
+458,Jewelry,Credit card in USD,Checking account in GBP,526401129,10/29/2065
+459,Movies,Credit card in USD,The house,446163234,4/8/2082
+460,Shoes,Cash wallet,Shared Checking Account,137540697,3/25/2058
+461,Jewelry,AMEX Credit Card debt,The house,324495386,10/9/2037
+462,Clothing,Savings Account,Savings Account,929888860,8/2/2045
+463,Toys,Savings Account,Credit card in USD,799546357,3/2/2040
+464,Automotive,Checking Account,Checking Account,40641029,7/10/2030
+465,Kids,Shared Checking Account,Checking Account,398316022,11/6/2069
+466,Tools,Shared Checking Account,Google Revenue,599767311,8/1/2039
+467,Beauty,Checking Account,Checking Account,520350437,8/17/2050
+468,Games,Savings Account,Shared Checking Account,705257356,12/9/2098
+469,Movies,Google Revenue,Google Revenue,43215706,6/29/2048
+470,Jewelry,Google Revenue,Savings Account,641751673,10/27/2064
+471,Clothing,DUO Student loans,Google Revenue,921537410,4/26/2077
+472,Music,Savings Account,The house,949123249,6/15/2056
+473,Jewelry,AMEX Credit Card debt,Google Revenue,755620442,2/18/2054
+474,Beauty,Google Revenue,The house,131643868,10/14/2080
+475,Books,AMEX Credit Card debt,Credit card in USD,992817494,5/25/2077
+476,Sports,DUO Student loans,AMEX Credit Card debt,531673168,12/29/2054
+477,Computers,Shared Checking Account,Google Revenue,842378047,2/23/2048
+478,Beauty,Checking Account,Cash wallet,179756387,3/26/2038
+479,Clothing,Credit card in USD,Credit card in USD,900862966,12/17/2050
+480,Home,Google Revenue,The house,17100471,7/6/2084
+481,Clothing,Checking account in GBP,Cash wallet,69573058,10/2/2078
+482,Toys,Shared Checking Account,The house,710693564,8/9/2098
+483,Books,The house,Checking account in GBP,122095324,11/17/2051
+484,Health,Checking Account,Cash wallet,435808999,3/12/2061
+485,Books,Google Revenue,DUO Student loans,562038608,5/16/2094
+486,Music,DUO Student loans,Credit card in USD,296532153,12/30/2060
+487,Baby,Savings Account,Google Revenue,27234013,6/15/2092
+488,Tools,DUO Student loans,Checking account in GBP,556035843,10/5/2047
+489,Home,Checking account in GBP,Shared Checking Account,757037187,10/24/2033
+490,Tools,Shared Checking Account,Credit card in USD,101513144,11/26/2067
+491,Books,Savings Account,Checking account in GBP,104281575,10/6/2049
+492,Movies,The house,Shared Checking Account,51393232,12/14/2033
+493,Industrial,Savings Account,Shared Checking Account,67777079,3/6/2043
+494,Beauty,Shared Checking Account,The house,990364462,4/21/2094
+495,Home,Savings Account,Checking account in GBP,310487428,9/12/2051
+496,Music,Credit card in USD,Google Revenue,466780175,4/8/2096
+497,Jewelry,The house,Credit card in USD,663752223,7/10/2081
+498,Health,Savings Account,The house,16336723,10/6/2042
+499,Kids,The house,The house,370232192,4/1/2081
+500,Outdoors,Checking Account,Checking account in GBP,400382402,1/10/2044
+501,Beauty,AMEX Credit Card debt,Credit card in USD,416603361,1/20/2032
+502,Home,DUO Student loans,Checking account in GBP,209364560,3/13/2080
+503,Baby,The house,Credit card in USD,926794057,3/3/2071
+504,Jewelry,DUO Student loans,Savings Account,931987437,9/27/2026
+505,Games,Checking Account,The house,783645637,9/11/2087
+506,Sports,DUO Student loans,Google Revenue,819393934,5/16/2099
+507,Movies,Cash wallet,The house,733494838,1/12/2034
+508,Baby,Credit card in USD,Google Revenue,849559870,4/22/2045
+509,Shoes,AMEX Credit Card debt,Checking account in GBP,795425239,12/14/2050
+510,Jewelry,Savings Account,Checking Account,288453089,11/22/2063
+511,Outdoors,Savings Account,Google Revenue,69035500,2/27/2053
+512,Toys,Checking Account,Checking account in GBP,39428115,11/1/2058
+513,Industrial,Cash wallet,Checking Account,947084054,12/30/2094
+514,Toys,The house,The house,389047515,8/1/2028
+515,Home,Savings Account,Google Revenue,520374121,5/12/2089
+516,Music,Checking Account,Shared Checking Account,708092495,5/16/2061
+517,Tools,Cash wallet,Cash wallet,41560405,3/11/2091
+518,Automotive,The house,Checking account in GBP,632415176,7/19/2089
+519,Kids,Checking Account,Cash wallet,911573762,3/5/2044
+520,Shoes,Savings Account,Google Revenue,648795494,3/6/2026
+521,Automotive,Credit card in USD,Checking Account,240541823,7/14/2085
+522,Automotive,AMEX Credit Card debt,Savings Account,747429178,3/4/2071
+523,Movies,Checking Account,AMEX Credit Card debt,340729001,6/15/2027
+524,Home,Savings Account,Checking Account,343891258,5/11/2088
+525,Grocery,AMEX Credit Card debt,Checking Account,782680533,12/18/2050
+526,Books,Checking account in GBP,Checking Account,212195349,3/11/2075
+527,Garden,Credit card in USD,Cash wallet,978173547,9/22/2082
+528,Tools,Credit card in USD,Shared Checking Account,192307967,6/6/2046
+529,Grocery,Cash wallet,DUO Student loans,211365571,7/24/2076
+530,Automotive,The house,DUO Student loans,841402142,3/1/2088
+531,Beauty,Savings Account,Checking account in GBP,841256642,5/29/2044
+532,Sports,Credit card in USD,Checking account in GBP,808043780,11/6/2080
+533,Music,Cash wallet,Google Revenue,28943205,5/27/2073
+534,Shoes,DUO Student loans,Cash wallet,330186250,8/11/2031
+535,Toys,Credit card in USD,Shared Checking Account,830783346,8/16/2079
+536,Jewelry,Google Revenue,Checking account in GBP,848931287,4/28/2050
+537,Grocery,DUO Student loans,DUO Student loans,713899033,12/7/2039
+538,Games,Credit card in USD,Savings Account,717370092,4/1/2092
+539,Kids,Checking Account,Shared Checking Account,264018291,11/5/2053
+540,Industrial,DUO Student loans,Checking account in GBP,311664234,11/27/2033
+541,Grocery,Cash wallet,Checking account in GBP,19448968,9/21/2089
+542,Home,Shared Checking Account,AMEX Credit Card debt,423040952,4/21/2076
+543,Clothing,Credit card in USD,AMEX Credit Card debt,199311664,6/10/2037
+544,Books,Checking Account,Checking account in GBP,274567828,7/12/2073
+545,Home,AMEX Credit Card debt,The house,32218387,6/14/2030
+546,Tools,DUO Student loans,AMEX Credit Card debt,310026044,1/8/2061
+547,Books,Google Revenue,Cash wallet,37933844,10/21/2093
+548,Grocery,Savings Account,AMEX Credit Card debt,379219066,10/6/2065
+549,Automotive,Checking account in GBP,Shared Checking Account,190793820,6/16/2084
+550,Baby,DUO Student loans,Checking Account,461304365,9/4/2026
+551,Toys,Google Revenue,DUO Student loans,987000948,6/28/2039
+552,Movies,Savings Account,AMEX Credit Card debt,300996273,7/23/2050
+553,Jewelry,Checking account in GBP,Shared Checking Account,78605029,8/16/2052
+554,Home,Credit card in USD,AMEX Credit Card debt,568028128,2/2/2060
+555,Kids,AMEX Credit Card debt,Savings Account,148043227,7/31/2050
+556,Books,Checking Account,Cash wallet,738831628,7/15/2048
+557,Automotive,Cash wallet,The house,720983421,9/3/2081
+558,Home,Cash wallet,Shared Checking Account,486051149,3/28/2079
+559,Computers,Google Revenue,The house,330198705,4/11/2089
+560,Shoes,AMEX Credit Card debt,Savings Account,750659786,1/16/2028
+561,Tools,Cash wallet,Checking account in GBP,68474490,3/5/2052
+562,Tools,Checking account in GBP,Shared Checking Account,254849201,7/12/2098
+563,Grocery,The house,Google Revenue,645135746,10/5/2038
+564,Automotive,DUO Student loans,Savings Account,620187262,3/17/2065
+565,Computers,Shared Checking Account,Checking account in GBP,535856436,9/26/2091
+566,Sports,DUO Student loans,Shared Checking Account,255490350,3/9/2041
+567,Kids,DUO Student loans,Checking Account,626596745,7/25/2032
+568,Sports,Cash wallet,Checking account in GBP,28660478,12/29/2025
+569,Jewelry,AMEX Credit Card debt,Shared Checking Account,584502843,3/6/2047
+570,Home,Shared Checking Account,Checking Account,435908870,3/9/2059
+571,Health,DUO Student loans,AMEX Credit Card debt,745037241,1/5/2070
+572,Beauty,Checking account in GBP,Checking Account,690866755,12/2/2091
+573,Computers,Checking Account,Cash wallet,14720133,9/3/2060
+574,Kids,Shared Checking Account,Shared Checking Account,811091881,10/28/2076
+575,Movies,Savings Account,Credit card in USD,971241533,4/17/2045
+576,Movies,Google Revenue,Google Revenue,291095001,10/23/2083
+577,Baby,Cash wallet,The house,892480613,12/4/2070
+578,Industrial,Checking account in GBP,DUO Student loans,399008517,12/20/2041
+579,Jewelry,Checking Account,The house,577347901,5/17/2098
+580,Sports,Savings Account,Cash wallet,465973072,12/14/2044
+581,Kids,Checking Account,The house,94525103,12/29/2036
+582,Books,Credit card in USD,Checking Account,299509337,9/20/2067
+583,Baby,Cash wallet,DUO Student loans,254783114,9/13/2043
+584,Computers,AMEX Credit Card debt,Checking account in GBP,917832866,12/1/2032
+585,Home,Shared Checking Account,AMEX Credit Card debt,329386262,5/24/2026
+586,Home,The house,Google Revenue,889007247,9/11/2068
+587,Movies,DUO Student loans,Checking Account,757096715,7/30/2056
+588,Movies,Google Revenue,AMEX Credit Card debt,444705419,12/16/2036
+589,Games,Checking Account,Google Revenue,558822388,3/17/2099
+590,Clothing,AMEX Credit Card debt,The house,680567830,2/10/2077
+591,Baby,Checking account in GBP,Checking Account,824751595,7/19/2050
+592,Shoes,Credit card in USD,Shared Checking Account,665051303,1/25/2053
+593,Kids,Cash wallet,Checking Account,478715844,9/21/2088
+594,Beauty,Credit card in USD,AMEX Credit Card debt,726996836,4/29/2091
+595,Jewelry,AMEX Credit Card debt,Shared Checking Account,746878089,5/6/2050
+596,Automotive,The house,Cash wallet,920763327,4/30/2049
+597,Clothing,DUO Student loans,Shared Checking Account,879999854,7/21/2095
+598,Outdoors,Cash wallet,The house,171382758,11/30/2058
+599,Jewelry,Google Revenue,Shared Checking Account,167606488,5/12/2080
+600,Outdoors,Cash wallet,Cash wallet,9178591,9/28/2085
+601,Home,Shared Checking Account,Shared Checking Account,154016758,12/19/2029
+602,Health,Cash wallet,Checking Account,32683924,9/26/2045
+603,Outdoors,Google Revenue,Shared Checking Account,776389589,1/8/2096
+604,Health,Shared Checking Account,Checking account in GBP,641842387,5/1/2035
+605,Beauty,Shared Checking Account,Savings Account,459675999,1/20/2097
+606,Industrial,Google Revenue,Shared Checking Account,209128710,11/16/2071
+607,Industrial,Checking account in GBP,Savings Account,396696801,12/6/2057
+608,Books,Credit card in USD,Checking Account,753899660,7/17/2095
+609,Sports,DUO Student loans,Cash wallet,140798009,10/21/2092
+610,Beauty,AMEX Credit Card debt,Checking Account,297650147,5/22/2039
+611,Industrial,AMEX Credit Card debt,Checking account in GBP,202250434,6/9/2093
+612,Garden,Checking Account,Shared Checking Account,61243832,8/22/2061
+613,Garden,AMEX Credit Card debt,Checking Account,511181860,2/11/2069
+614,Games,Savings Account,Shared Checking Account,782824005,10/1/2043
+615,Games,The house,The house,896353095,12/14/2092
+616,Beauty,AMEX Credit Card debt,The house,433602887,12/4/2059
+617,Industrial,Checking account in GBP,Checking Account,27369692,12/21/2048
+618,Electronics,Cash wallet,Checking account in GBP,58672500,12/23/2043
+619,Garden,Shared Checking Account,Credit card in USD,368718130,7/21/2091
+620,Baby,AMEX Credit Card debt,DUO Student loans,531389007,3/10/2089
+621,Electronics,AMEX Credit Card debt,AMEX Credit Card debt,335693364,8/25/2041
+622,Jewelry,Shared Checking Account,DUO Student loans,662279573,1/5/2091
+623,Games,Cash wallet,DUO Student loans,493239346,3/2/2091
+624,Tools,Credit card in USD,The house,17748602,6/18/2060
+625,Electronics,Google Revenue,Credit card in USD,302166868,8/24/2063
+626,Games,The house,DUO Student loans,6635866,10/21/2075
+627,Jewelry,Savings Account,Cash wallet,552376716,7/11/2088
+628,Tools,Shared Checking Account,Credit card in USD,919793661,1/19/2053
+629,Health,The house,Cash wallet,996164372,9/9/2081
+630,Movies,Cash wallet,AMEX Credit Card debt,879027027,9/5/2043
+631,Movies,Savings Account,Checking Account,988630292,7/17/2075
+632,Industrial,Credit card in USD,The house,142159076,2/23/2067
+633,Kids,Checking account in GBP,The house,469841196,6/19/2086
+634,Health,AMEX Credit Card debt,The house,976082843,11/17/2074
+635,Outdoors,Checking Account,Google Revenue,796851438,10/11/2043
+636,Home,Checking Account,The house,780837489,1/20/2025
+637,Automotive,AMEX Credit Card debt,Savings Account,955822031,6/21/2062
+638,Outdoors,Checking Account,Credit card in USD,197943805,3/10/2065
+639,Baby,DUO Student loans,Credit card in USD,356479024,9/5/2025
+640,Beauty,AMEX Credit Card debt,AMEX Credit Card debt,239738118,5/23/2077
+641,Industrial,Credit card in USD,Shared Checking Account,671045071,8/1/2066
+642,Computers,Savings Account,Checking Account,996541055,1/25/2080
+643,Kids,Shared Checking Account,Savings Account,679425753,1/11/2088
+644,Garden,Credit card in USD,Cash wallet,780254461,12/15/2031
+645,Movies,The house,Checking account in GBP,862130752,2/22/2085
+646,Toys,Checking Account,The house,980517855,12/13/2060
+647,Automotive,The house,Checking account in GBP,20279128,8/18/2052
+648,Books,Shared Checking Account,Shared Checking Account,545180527,8/23/2044
+649,Games,DUO Student loans,Checking account in GBP,154174409,12/21/2099
+650,Sports,Checking Account,AMEX Credit Card debt,26849251,7/23/2053
+651,Toys,DUO Student loans,Credit card in USD,715097334,6/2/2032
+652,Clothing,Cash wallet,DUO Student loans,61914499,4/24/2084
+653,Baby,The house,Checking Account,582401480,6/28/2098
+654,Health,Checking account in GBP,AMEX Credit Card debt,148383808,10/14/2084
+655,Books,AMEX Credit Card debt,Cash wallet,278284836,1/28/2098
+656,Toys,DUO Student loans,The house,103602150,6/5/2050
+657,Shoes,Shared Checking Account,Checking Account,66955381,9/7/2038
+658,Health,DUO Student loans,Savings Account,161189012,9/25/2099
+659,Clothing,The house,Google Revenue,757145815,2/13/2085
+660,Baby,Savings Account,Google Revenue,47837302,8/10/2078
+661,Computers,Credit card in USD,Shared Checking Account,838014055,7/25/2027
+662,Clothing,The house,The house,213374632,5/2/2057
+663,Books,Shared Checking Account,Credit card in USD,584404742,1/4/2088
+664,Outdoors,AMEX Credit Card debt,AMEX Credit Card debt,301316070,3/7/2044
+665,Sports,Checking Account,Savings Account,363907504,2/12/2085
+666,Garden,Cash wallet,DUO Student loans,191946397,11/25/2089
+667,Sports,Google Revenue,Cash wallet,452866832,10/9/2087
+668,Jewelry,Cash wallet,The house,423039023,8/18/2077
+669,Clothing,Checking Account,Google Revenue,846897814,2/15/2061
+670,Movies,DUO Student loans,Savings Account,821439559,10/25/2067
+671,Home,Cash wallet,AMEX Credit Card debt,910874446,4/19/2041
+672,Computers,Cash wallet,DUO Student loans,346540101,11/16/2072
+673,Health,Cash wallet,Checking account in GBP,903647935,6/18/2044
+674,Shoes,Checking account in GBP,DUO Student loans,564766890,10/2/2039
+675,Automotive,Credit card in USD,Credit card in USD,786354747,9/13/2031
+676,Sports,Cash wallet,AMEX Credit Card debt,665006667,7/12/2074
+677,Games,Credit card in USD,Google Revenue,273045001,6/5/2082
+678,Music,DUO Student loans,Checking account in GBP,119092610,3/17/2035
+679,Games,Checking account in GBP,AMEX Credit Card debt,242419345,10/2/2073
+680,Games,The house,Google Revenue,383570114,8/12/2042
+681,Shoes,Savings Account,Checking account in GBP,735356560,11/4/2029
+682,Shoes,Savings Account,Checking Account,620221334,8/4/2086
+683,Shoes,DUO Student loans,Shared Checking Account,639262893,6/9/2088
+684,Baby,AMEX Credit Card debt,Google Revenue,534030220,5/10/2069
+685,Clothing,AMEX Credit Card debt,Cash wallet,612572166,1/28/2060
+686,Computers,Cash wallet,Google Revenue,704525607,6/12/2047
+687,Industrial,Checking Account,Cash wallet,213949362,8/9/2051
+688,Health,The house,Checking account in GBP,35582960,12/6/2091
+689,Grocery,DUO Student loans,The house,862533531,9/25/2055
+690,Clothing,DUO Student loans,Checking Account,146501114,10/11/2052
+691,Jewelry,Credit card in USD,Google Revenue,189857337,7/30/2036
+692,Home,Cash wallet,Cash wallet,96345435,4/26/2058
+693,Jewelry,AMEX Credit Card debt,Checking Account,154541216,5/10/2072
+694,Kids,Cash wallet,Checking account in GBP,851163873,9/26/2099
+695,Music,Shared Checking Account,Cash wallet,608817296,4/3/2067
+696,Clothing,Google Revenue,Savings Account,705231908,8/16/2029
+697,Kids,Checking account in GBP,Google Revenue,987015890,7/15/2036
+698,Games,Checking account in GBP,Checking account in GBP,48768127,7/12/2074
+699,Books,Shared Checking Account,The house,980437104,8/9/2047
+700,Garden,Credit card in USD,Checking Account,219284523,12/29/2079
+701,Industrial,Savings Account,The house,840653153,10/17/2070
+702,Clothing,Checking Account,Shared Checking Account,963931299,2/13/2043
+703,Health,Checking account in GBP,DUO Student loans,466897632,9/9/2074
+704,Garden,The house,The house,833631599,3/6/2049
+705,Jewelry,Checking account in GBP,Shared Checking Account,835875281,4/23/2082
+706,Grocery,Checking account in GBP,DUO Student loans,29029817,3/13/2059
+707,Clothing,Shared Checking Account,Shared Checking Account,767607857,4/25/2067
+708,Outdoors,AMEX Credit Card debt,Credit card in USD,202793043,1/3/2046
+709,Computers,DUO Student loans,Checking Account,997759325,7/9/2046
+710,Health,Cash wallet,Cash wallet,385493016,1/22/2081
+711,Home,Shared Checking Account,DUO Student loans,139556039,11/3/2090
+712,Computers,The house,DUO Student loans,437418913,9/19/2041
+713,Games,Savings Account,Cash wallet,430007068,10/28/2061
+714,Computers,AMEX Credit Card debt,Google Revenue,360113507,10/6/2090
+715,Sports,Cash wallet,Credit card in USD,703092797,1/13/2092
+716,Industrial,Checking account in GBP,Credit card in USD,737596552,6/21/2039
+717,Jewelry,Google Revenue,Checking account in GBP,397751806,8/29/2088
+718,Clothing,AMEX Credit Card debt,Checking Account,401188372,2/8/2071
+719,Shoes,Shared Checking Account,Google Revenue,352069081,10/6/2059
+720,Health,Savings Account,Shared Checking Account,589652280,7/4/2091
+721,Sports,Google Revenue,Credit card in USD,291077978,3/13/2030
+722,Computers,Credit card in USD,DUO Student loans,298659739,10/29/2051
+723,Health,The house,Cash wallet,956304514,3/24/2056
+724,Music,Credit card in USD,AMEX Credit Card debt,141435777,12/6/2099
+725,Grocery,Google Revenue,The house,705599121,1/11/2035
+726,Toys,The house,AMEX Credit Card debt,268172415,9/19/2083
+727,Jewelry,DUO Student loans,The house,856698014,2/11/2076
+728,Outdoors,DUO Student loans,AMEX Credit Card debt,686518266,1/27/2027
+729,Grocery,DUO Student loans,DUO Student loans,141751353,8/10/2041
+730,Shoes,Google Revenue,Savings Account,647942502,10/19/2074
+731,Beauty,The house,AMEX Credit Card debt,997883396,12/20/2037
+732,Grocery,AMEX Credit Card debt,Credit card in USD,140888963,11/22/2026
+733,Music,Cash wallet,AMEX Credit Card debt,877507210,10/21/2065
+734,Kids,AMEX Credit Card debt,Shared Checking Account,889630969,2/26/2061
+735,Jewelry,Checking account in GBP,Shared Checking Account,1757051,11/30/2039
+736,Movies,Cash wallet,Cash wallet,204719076,5/28/2099
+737,Electronics,Cash wallet,Checking account in GBP,964821290,8/25/2078
+738,Automotive,DUO Student loans,Google Revenue,96457310,7/29/2082
+739,Beauty,The house,AMEX Credit Card debt,415165309,1/1/2060
+740,Tools,Savings Account,The house,884411660,4/12/2098
+741,Shoes,AMEX Credit Card debt,AMEX Credit Card debt,514630672,2/1/2059
+742,Games,The house,DUO Student loans,409518738,2/11/2080
+743,Grocery,AMEX Credit Card debt,Cash wallet,397185020,2/21/2047
+744,Shoes,Cash wallet,Google Revenue,723291129,2/24/2035
+745,Movies,Cash wallet,Cash wallet,270634301,2/7/2045
+746,Sports,Cash wallet,Google Revenue,486026333,2/7/2096
+747,Games,Checking account in GBP,Checking Account,241052065,3/30/2029
+748,Industrial,Google Revenue,Credit card in USD,987731943,5/25/2029
+749,Clothing,The house,Cash wallet,999812876,10/24/2064
+750,Kids,DUO Student loans,Shared Checking Account,678873559,10/27/2081
+751,Home,Google Revenue,Checking Account,915268217,3/18/2063
+752,Sports,Google Revenue,Checking account in GBP,284196567,7/30/2061
+753,Computers,Savings Account,DUO Student loans,690078979,6/4/2078
+754,Automotive,AMEX Credit Card debt,Checking account in GBP,453277605,5/28/2026
+755,Baby,Checking Account,AMEX Credit Card debt,595505097,3/16/2037
+756,Grocery,Google Revenue,Credit card in USD,606266902,2/5/2062
+757,Industrial,Checking Account,DUO Student loans,214237002,9/13/2029
+758,Books,Savings Account,Checking account in GBP,921030042,6/23/2096
+759,Clothing,Cash wallet,Credit card in USD,539667050,1/19/2053
+760,Movies,Savings Account,DUO Student loans,314541366,12/25/2051
+761,Automotive,Checking account in GBP,Credit card in USD,951424975,9/25/2087
+762,Jewelry,Checking account in GBP,The house,916687971,11/22/2090
+763,Shoes,Shared Checking Account,Credit card in USD,485433234,9/28/2048
+764,Books,Google Revenue,Cash wallet,261710028,11/27/2026
+765,Electronics,Savings Account,AMEX Credit Card debt,270003172,2/6/2039
+766,Health,Google Revenue,AMEX Credit Card debt,944807288,7/20/2068
+767,Automotive,Credit card in USD,Checking account in GBP,203734649,10/22/2090
+768,Movies,Shared Checking Account,Google Revenue,752459881,12/7/2061
+769,Electronics,DUO Student loans,DUO Student loans,771000658,12/18/2087
+770,Kids,DUO Student loans,DUO Student loans,42582103,5/21/2042
+771,Beauty,AMEX Credit Card debt,Google Revenue,31839731,6/28/2054
+772,Tools,AMEX Credit Card debt,Savings Account,24841172,12/17/2091
+773,Outdoors,Credit card in USD,The house,363293041,12/3/2071
+774,Baby,Credit card in USD,Cash wallet,309621878,11/18/2026
+775,Automotive,DUO Student loans,Credit card in USD,26244833,3/5/2030
+776,Shoes,Checking Account,Google Revenue,810966465,9/1/2091
+777,Automotive,DUO Student loans,DUO Student loans,646862834,4/22/2069
+778,Health,Checking Account,The house,278694153,11/2/2062
+779,Automotive,Shared Checking Account,Google Revenue,138615080,9/20/2039
+780,Outdoors,Credit card in USD,Cash wallet,490416235,12/30/2052
+781,Outdoors,Checking account in GBP,DUO Student loans,47020164,5/5/2053
+782,Tools,Cash wallet,The house,641975024,9/13/2095
+783,Home,Credit card in USD,Savings Account,86227283,9/2/2072
+784,Music,Cash wallet,Checking account in GBP,881838481,3/14/2064
+785,Computers,DUO Student loans,Checking account in GBP,65622714,4/29/2042
+786,Grocery,Shared Checking Account,Google Revenue,317275558,4/9/2044
+787,Garden,Cash wallet,Checking Account,384117243,4/9/2051
+788,Books,Checking account in GBP,Cash wallet,870868371,7/11/2073
+789,Electronics,Credit card in USD,Google Revenue,691245865,9/29/2069
+790,Outdoors,DUO Student loans,Google Revenue,854109791,9/16/2048
+791,Automotive,Google Revenue,Cash wallet,108675218,9/16/2041
+792,Games,The house,The house,779600319,2/3/2031
+793,Outdoors,Credit card in USD,Google Revenue,481275904,4/17/2070
+794,Baby,The house,AMEX Credit Card debt,101129868,11/29/2071
+795,Garden,AMEX Credit Card debt,Checking Account,773281752,10/15/2064
+796,Movies,Savings Account,Cash wallet,586280445,3/19/2080
+797,Outdoors,Checking account in GBP,Checking account in GBP,536351529,12/27/2091
+798,Outdoors,Shared Checking Account,Checking account in GBP,77660310,9/22/2092
+799,Garden,Shared Checking Account,Checking account in GBP,599519941,2/23/2053
+800,Clothing,AMEX Credit Card debt,AMEX Credit Card debt,533645332,9/13/2092
+801,Games,The house,Shared Checking Account,473448228,1/2/2059
+802,Beauty,Shared Checking Account,Google Revenue,403174251,11/2/2030
+803,Movies,DUO Student loans,Google Revenue,682125155,12/6/2057
+804,Garden,Google Revenue,Cash wallet,457869620,12/14/2030
+805,Baby,DUO Student loans,The house,304093874,12/17/2097
+806,Clothing,AMEX Credit Card debt,Cash wallet,495928995,1/9/2050
+807,Automotive,Shared Checking Account,Credit card in USD,392039654,6/13/2098
+808,Home,Credit card in USD,Cash wallet,120274528,3/8/2026
+809,Movies,Checking Account,DUO Student loans,682934955,10/24/2049
+810,Beauty,Savings Account,Google Revenue,766710236,4/16/2086
+811,Baby,Google Revenue,Credit card in USD,575045362,10/29/2032
+812,Grocery,DUO Student loans,Shared Checking Account,721923437,8/14/2076
+813,Music,Checking Account,Checking Account,826732946,6/17/2059
+814,Shoes,Shared Checking Account,The house,185300097,10/10/2069
+815,Computers,The house,Checking Account,636374921,7/24/2090
+816,Health,The house,The house,242453437,4/7/2049
+817,Home,DUO Student loans,The house,310250496,6/27/2087
+818,Health,Checking account in GBP,Savings Account,492565360,10/16/2084
+819,Outdoors,Checking account in GBP,DUO Student loans,787547755,9/18/2037
+820,Beauty,AMEX Credit Card debt,Checking Account,286480628,1/20/2043
+821,Toys,DUO Student loans,Credit card in USD,670553071,6/9/2069
+822,Kids,Google Revenue,The house,232438814,7/15/2036
+823,Books,AMEX Credit Card debt,Savings Account,825000075,3/24/2058
+824,Kids,Cash wallet,AMEX Credit Card debt,555781918,4/18/2045
+825,Computers,Cash wallet,Credit card in USD,949288869,1/31/2039
+826,Beauty,Cash wallet,The house,852166321,12/1/2062
+827,Jewelry,Checking Account,Savings Account,694464689,8/28/2082
+828,Sports,Shared Checking Account,Checking account in GBP,509727337,8/4/2097
+829,Tools,Checking account in GBP,Google Revenue,448731358,2/3/2073
+830,Sports,Shared Checking Account,Checking account in GBP,826908086,3/25/2056
+831,Clothing,Savings Account,Checking Account,119572614,12/5/2067
+832,Grocery,Google Revenue,AMEX Credit Card debt,177435459,7/4/2038
+833,Grocery,The house,AMEX Credit Card debt,698732900,5/31/2074
+834,Grocery,The house,Checking Account,250637602,9/17/2096
+835,Computers,Savings Account,DUO Student loans,646951344,7/22/2085
+836,Tools,Google Revenue,Checking Account,550354352,5/14/2061
+837,Books,AMEX Credit Card debt,Credit card in USD,911878510,5/24/2097
+838,Beauty,DUO Student loans,Checking Account,603188080,4/20/2047
+839,Garden,Checking account in GBP,Google Revenue,253472515,8/19/2052
+840,Sports,The house,Google Revenue,580071557,9/24/2044
+841,Sports,Google Revenue,The house,35059978,9/16/2080
+842,Toys,Checking account in GBP,Checking account in GBP,474832443,7/20/2058
+843,Music,Google Revenue,Savings Account,203152950,6/29/2042
+844,Toys,Savings Account,The house,114043907,11/22/2028
+845,Computers,Savings Account,Savings Account,905916629,2/16/2080
+846,Garden,DUO Student loans,Shared Checking Account,940267491,12/3/2082
+847,Kids,Credit card in USD,Google Revenue,502668325,9/28/2095
+848,Home,Checking account in GBP,Checking Account,796583183,9/23/2056
+849,Games,DUO Student loans,Google Revenue,19774377,2/25/2042
+850,Home,Cash wallet,DUO Student loans,74127532,7/6/2093
+851,Beauty,Savings Account,Savings Account,253407174,1/6/2081
+852,Grocery,Checking Account,Credit card in USD,209046688,10/8/2025
+853,Games,DUO Student loans,The house,648886011,6/5/2025
+854,Jewelry,Shared Checking Account,The house,462181326,7/9/2089
+855,Music,Google Revenue,Cash wallet,893475947,6/11/2043
+856,Music,Savings Account,AMEX Credit Card debt,171000230,12/24/2042
+857,Garden,The house,Checking account in GBP,753523731,6/24/2073
+858,Industrial,The house,Checking Account,395219517,10/23/2041
+859,Games,Google Revenue,Savings Account,685331976,10/31/2037
+860,Kids,Shared Checking Account,Credit card in USD,941863785,2/8/2055
+861,Clothing,Shared Checking Account,Checking Account,527395357,3/7/2095
+862,Outdoors,Checking account in GBP,Shared Checking Account,576784490,11/30/2060
+863,Outdoors,DUO Student loans,Savings Account,695252992,1/19/2031
+864,Games,Credit card in USD,AMEX Credit Card debt,232539109,10/20/2032
+865,Electronics,Credit card in USD,AMEX Credit Card debt,93703845,9/22/2038
+866,Industrial,Credit card in USD,DUO Student loans,452131439,1/15/2068
+867,Shoes,AMEX Credit Card debt,Credit card in USD,527081852,6/28/2092
+868,Automotive,Checking Account,Credit card in USD,919499517,1/4/2084
+869,Toys,DUO Student loans,Shared Checking Account,116492035,11/10/2077
+870,Toys,DUO Student loans,Checking account in GBP,451749986,8/25/2056
+871,Sports,The house,Cash wallet,103610006,3/9/2061
+872,Grocery,AMEX Credit Card debt,The house,823276510,12/17/2026
+873,Outdoors,Cash wallet,The house,44925473,9/12/2027
+874,Grocery,Checking Account,Cash wallet,232798240,6/26/2073
+875,Industrial,Credit card in USD,Savings Account,672077776,11/1/2094
+876,Electronics,AMEX Credit Card debt,DUO Student loans,996317569,9/8/2056
+877,Kids,Google Revenue,Credit card in USD,278736986,5/31/2025
+878,Grocery,DUO Student loans,Cash wallet,647224469,6/6/2069
+879,Baby,Credit card in USD,DUO Student loans,369307770,11/19/2062
+880,Automotive,Checking Account,Credit card in USD,578217907,8/20/2084
+881,Kids,Checking account in GBP,Google Revenue,96300998,11/13/2072
+882,Home,Shared Checking Account,Google Revenue,327437136,10/12/2040
+883,Automotive,Shared Checking Account,Checking account in GBP,394921502,10/29/2041
+884,Jewelry,Google Revenue,Google Revenue,92113695,5/15/2066
+885,Clothing,The house,AMEX Credit Card debt,774788857,5/27/2089
+886,Baby,The house,Cash wallet,613136877,7/14/2075
+887,Computers,Savings Account,The house,168141286,4/14/2086
+888,Music,Checking Account,DUO Student loans,205008126,10/22/2039
+889,Computers,Checking Account,Checking Account,531509968,5/4/2029
+890,Garden,The house,Credit card in USD,124073579,11/17/2029
+891,Health,Credit card in USD,Checking account in GBP,531206464,7/19/2065
+892,Shoes,Google Revenue,Savings Account,23837627,4/16/2096
+893,Music,The house,Checking account in GBP,527601708,5/19/2055
+894,Music,Cash wallet,AMEX Credit Card debt,36029946,9/4/2094
+895,Games,Cash wallet,DUO Student loans,833959595,9/25/2039
+896,Home,Credit card in USD,DUO Student loans,376247552,6/25/2049
+897,Shoes,AMEX Credit Card debt,AMEX Credit Card debt,607971792,5/13/2087
+898,Sports,The house,Savings Account,187626313,7/30/2079
+899,Toys,Savings Account,Checking account in GBP,145207763,11/14/2088
+900,Music,Credit card in USD,Checking Account,872440824,6/8/2042
+901,Jewelry,Google Revenue,Checking account in GBP,411511820,3/23/2069
+902,Tools,Google Revenue,Checking Account,505900183,11/12/2097
+903,Beauty,Checking account in GBP,Google Revenue,860835834,7/28/2092
+904,Industrial,Checking Account,DUO Student loans,464173125,11/5/2026
+905,Games,Shared Checking Account,Cash wallet,947291423,11/3/2094
+906,Clothing,DUO Student loans,The house,706112211,3/22/2052
+907,Automotive,AMEX Credit Card debt,DUO Student loans,243622263,2/2/2078
+908,Games,Checking Account,Credit card in USD,570294084,4/18/2084
+909,Movies,Savings Account,Savings Account,15881829,2/13/2067
+910,Kids,Google Revenue,DUO Student loans,377881031,5/21/2030
+911,Kids,Savings Account,Cash wallet,371276690,1/7/2041
+912,Automotive,DUO Student loans,AMEX Credit Card debt,771805505,6/5/2099
+913,Garden,The house,Savings Account,960069365,1/25/2099
+914,Toys,Shared Checking Account,Checking account in GBP,283552560,4/8/2097
+915,Beauty,DUO Student loans,Cash wallet,821946001,12/8/2030
+916,Games,The house,AMEX Credit Card debt,624882297,12/30/2081
+917,Computers,Checking account in GBP,Credit card in USD,554462293,2/2/2045
+918,Books,Checking account in GBP,Cash wallet,308007601,11/27/2075
+919,Movies,Checking account in GBP,Checking Account,64219826,8/31/2056
+920,Kids,AMEX Credit Card debt,Savings Account,981357796,8/7/2068
+921,Outdoors,Google Revenue,Checking account in GBP,287202998,5/25/2062
+922,Sports,Google Revenue,AMEX Credit Card debt,567707101,1/6/2051
+923,Jewelry,Shared Checking Account,Savings Account,819594886,9/23/2052
+924,Clothing,AMEX Credit Card debt,Checking Account,194665957,10/5/2059
+925,Electronics,Credit card in USD,Shared Checking Account,930912710,8/9/2094
+926,Shoes,Shared Checking Account,Checking Account,477249207,6/18/2042
+927,Music,The house,Google Revenue,443701646,4/19/2086
+928,Toys,The house,Checking Account,163873531,6/3/2039
+929,Tools,Checking account in GBP,Cash wallet,126483687,12/14/2049
+930,Computers,Cash wallet,The house,371630034,5/10/2027
+931,Automotive,AMEX Credit Card debt,DUO Student loans,660034875,6/30/2067
+932,Industrial,Cash wallet,AMEX Credit Card debt,516555087,11/17/2096
+933,Outdoors,Credit card in USD,Cash wallet,748575161,2/11/2068
+934,Games,Credit card in USD,Checking account in GBP,250335294,10/19/2080
+935,Music,Checking Account,Cash wallet,664057865,11/28/2062
+936,Tools,Cash wallet,Savings Account,579893725,6/12/2048
+937,Health,Checking Account,Checking account in GBP,733384843,3/17/2084
+938,Tools,DUO Student loans,Checking Account,881924966,8/27/2054
+939,Tools,Google Revenue,Shared Checking Account,782973166,4/28/2053
+940,Books,Savings Account,Shared Checking Account,145452961,9/10/2060
+941,Garden,Checking Account,Google Revenue,901572975,10/15/2090
+942,Health,Cash wallet,Checking account in GBP,290332920,10/27/2086
+943,Garden,AMEX Credit Card debt,Checking account in GBP,73001445,5/17/2050
+944,Clothing,Cash wallet,AMEX Credit Card debt,586350133,11/3/2086
+945,Clothing,DUO Student loans,Cash wallet,122515813,10/22/2050
+946,Baby,DUO Student loans,Checking Account,316076677,10/13/2056
+947,Beauty,AMEX Credit Card debt,Credit card in USD,856826156,5/14/2094
+948,Games,AMEX Credit Card debt,Savings Account,492332285,3/11/2064
+949,Tools,Savings Account,Checking account in GBP,365287897,7/22/2068
+950,Home,DUO Student loans,Checking Account,85559097,1/13/2063
+951,Shoes,Checking account in GBP,The house,492665543,5/13/2086
+952,Movies,Savings Account,Shared Checking Account,163108702,7/14/2041
+953,Books,Shared Checking Account,DUO Student loans,63155810,12/7/2081
+954,Games,The house,DUO Student loans,997347429,5/27/2047
+955,Kids,Credit card in USD,DUO Student loans,556337996,2/21/2072
+956,Automotive,AMEX Credit Card debt,Credit card in USD,755901803,3/17/2039
+957,Electronics,Cash wallet,The house,730165099,7/25/2098
+958,Home,Checking Account,The house,363889997,7/18/2072
+959,Automotive,DUO Student loans,Savings Account,347827489,12/5/2074
+960,Garden,The house,DUO Student loans,932557612,3/11/2076
+961,Toys,Google Revenue,Credit card in USD,935987512,2/25/2084
+962,Kids,The house,Credit card in USD,433843973,9/22/2067
+963,Toys,Credit card in USD,Savings Account,37288299,6/22/2066
+964,Sports,Checking account in GBP,Credit card in USD,695493160,5/21/2037
+965,Movies,Checking account in GBP,DUO Student loans,195416415,10/20/2070
+966,Computers,Credit card in USD,Credit card in USD,9325185,2/4/2076
+967,Kids,Checking account in GBP,AMEX Credit Card debt,202264153,11/29/2087
+968,Beauty,AMEX Credit Card debt,The house,131689878,9/1/2072
+969,Grocery,Shared Checking Account,DUO Student loans,593679560,5/16/2075
+970,Baby,AMEX Credit Card debt,Credit card in USD,335216685,10/20/2075
+971,Tools,AMEX Credit Card debt,DUO Student loans,780602265,9/28/2042
+972,Electronics,DUO Student loans,AMEX Credit Card debt,478672318,2/17/2031
+973,Health,The house,Savings Account,960269989,4/25/2050
+974,Shoes,Cash wallet,Cash wallet,641871613,11/22/2033
+975,Health,Checking account in GBP,AMEX Credit Card debt,277583131,8/4/2031
+976,Electronics,Savings Account,Cash wallet,848037946,9/2/2066
+977,Beauty,AMEX Credit Card debt,Google Revenue,788157370,11/22/2059
+978,Garden,DUO Student loans,The house,548068482,4/9/2025
+979,Tools,The house,Credit card in USD,339272839,5/28/2084
+980,Toys,Savings Account,Credit card in USD,125301590,6/28/2060
+981,Home,The house,The house,973795624,11/7/2088
+982,Baby,DUO Student loans,AMEX Credit Card debt,745444971,5/3/2092
+983,Grocery,Cash wallet,Savings Account,978652219,3/30/2071
+984,Beauty,Google Revenue,Checking account in GBP,387719078,10/14/2081
+985,Games,DUO Student loans,The house,480818308,11/14/2041
+986,Baby,Checking Account,Google Revenue,446840173,1/1/2085
+987,Movies,Shared Checking Account,Google Revenue,194093496,3/2/2077
+988,Shoes,Google Revenue,AMEX Credit Card debt,255776323,9/20/2072
+989,Music,Credit card in USD,Savings Account,761373586,2/17/2048
+990,Sports,Savings Account,The house,785837407,11/3/2037
+991,Outdoors,The house,Checking Account,266955350,5/30/2040
+992,Outdoors,Shared Checking Account,DUO Student loans,406246059,12/22/2024
+993,Clothing,Savings Account,Credit card in USD,717778502,2/26/2040
+994,Toys,Shared Checking Account,AMEX Credit Card debt,834519641,1/25/2094
+995,Toys,DUO Student loans,DUO Student loans,576499286,3/17/2045
+996,Music,DUO Student loans,Checking Account,454948796,9/27/2098
+997,Automotive,Google Revenue,Savings Account,519416583,10/19/2058
+998,Shoes,Cash wallet,Shared Checking Account,546488575,3/21/2055
+999,Jewelry,The house,Shared Checking Account,617095166,7/12/2099
+1000,Shoes,Shared Checking Account,Google Revenue,912873873,9/13/2048

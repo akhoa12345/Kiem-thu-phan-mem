@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_btn btn-default btn-xs</name>
+   <tag></tag>
+   <elementGuidId>b0cc19eb-6a4b-4ff3-80d4-9077ba1c9138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.hidden-sm.hidden-xs > div.btn-group.btn-group-xs > a.btn.btn-default.btn-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='piggy-sortable']/tbody/tr[2]/td[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f717a363-e6e0-459d-ba93-3cad079362e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/piggy-banks/edit/3</value>
+      <webElementGuid>6c75bbd7-105a-4e5d-b43d-a886ecb5181e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-xs</value>
+      <webElementGuid>57aab16f-7c6f-45a8-856b-6b7901f418d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;piggy-sortable&quot;)/tbody[@class=&quot;piggy-connected-list ui-sortable&quot;]/tr[@class=&quot;piggy-sortable&quot;]/td[@class=&quot;hidden-sm hidden-xs&quot;]/div[@class=&quot;btn-group btn-group-xs&quot;]/a[@class=&quot;btn btn-default btn-xs&quot;]</value>
+      <webElementGuid>116af758-6325-4c7b-b208-4d3e900f84fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='piggy-sortable']/tbody/tr[2]/td[4]/div/a</value>
+      <webElementGuid>33b14540-7f31-457c-819d-bbda5187fcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/piggy-banks/edit/3']</value>
+      <webElementGuid>d49da553-994a-4952-b1f2-f52ae00d2049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/a</value>
+      <webElementGuid>f26c14cf-f8bd-436c-b40c-7ef348cf24e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/piggy-banks/edit/3']</value>
+      <webElementGuid>68b564d3-6f44-44ee-b129-d8f930a54b23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

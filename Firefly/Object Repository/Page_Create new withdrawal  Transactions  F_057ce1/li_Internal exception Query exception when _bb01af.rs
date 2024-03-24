@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Internal exception Query exception when _bb01af</name>
+   <tag></tag>
+   <elementGuidId>4351ca82-186e-41ac-8c97-91017f5325cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transaction-info']/div/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>64a6dec7-e0fa-4518-ad09-6be0a1e70e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>c508fb66-bbea-47b7-9f7b-42f1b53ed2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Internal exception: Query exception when creating transaction: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'amount' at row 1 (Connection: mysql, SQL: insert into `transactions` (`reconciled`, `account_id`, `transaction_journal_id`, `description`, `transaction_currency_id`, `amount`, `foreign_amount`, `foreign_currency_id`, `identifier`, `updated_at`, `created_at`) values (0, 7, 13, ?, 1, -500000000000000000000000000000000000000.000000000000, ?, ?, 0, 2024-01-01 09:37:33, 2024-01-01 09:37:33))</value>
+      <webElementGuid>d68d45b1-c683-4626-9d3f-384de91443ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group has-error&quot;]/div[@class=&quot;col-sm-12&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>227a3951-6170-4e30-a1c5-067ba9597d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transaction-info']/div/div[2]/ul/li</value>
+      <webElementGuid>7bff8ae6-8933-4db8-b24c-d30fbd1cd25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li</value>
+      <webElementGuid>bc730485-a389-47cd-8bd4-f1a827827f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Internal exception: Query exception when creating transaction: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column &quot; , &quot;'&quot; , &quot;amount&quot; , &quot;'&quot; , &quot; at row 1 (Connection: mysql, SQL: insert into `transactions` (`reconciled`, `account_id`, `transaction_journal_id`, `description`, `transaction_currency_id`, `amount`, `foreign_amount`, `foreign_currency_id`, `identifier`, `updated_at`, `created_at`) values (0, 7, 13, ?, 1, -500000000000000000000000000000000000000.000000000000, ?, ?, 0, 2024-01-01 09:37:33, 2024-01-01 09:37:33))&quot;) or . = concat(&quot;Internal exception: Query exception when creating transaction: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column &quot; , &quot;'&quot; , &quot;amount&quot; , &quot;'&quot; , &quot; at row 1 (Connection: mysql, SQL: insert into `transactions` (`reconciled`, `account_id`, `transaction_journal_id`, `description`, `transaction_currency_id`, `amount`, `foreign_amount`, `foreign_currency_id`, `identifier`, `updated_at`, `created_at`) values (0, 7, 13, ?, 1, -500000000000000000000000000000000000000.000000000000, ?, ?, 0, 2024-01-01 09:37:33, 2024-01-01 09:37:33))&quot;))]</value>
+      <webElementGuid>6f0851aa-7729-4773-b4b6-50cfacf748da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Internal exception: Query exception when creating transaction: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column &quot; , &quot;'&quot; , &quot;amount&quot; , &quot;'&quot; , &quot; at row 1 (Connection: mysql, SQL: insert into `transactions` (`reconciled`, `account_id`, `transaction_journal_id`, `description`, `transaction_currency_id`, `amount`, `foreign_amount`, `foreign_currency_id`, `identifier`, `updated_at`, `created_at`) values (0, 7, 9, ?, 1, -500000000000000000000000000000000000000.000000000000, ?, ?, 0, 2024-01-01 09:23:56, 2024-01-01 09:23:56))&quot;) or . = concat(&quot;Internal exception: Query exception when creating transaction: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column &quot; , &quot;'&quot; , &quot;amount&quot; , &quot;'&quot; , &quot; at row 1 (Connection: mysql, SQL: insert into `transactions` (`reconciled`, `account_id`, `transaction_journal_id`, `description`, `transaction_currency_id`, `amount`, `foreign_amount`, `foreign_currency_id`, `identifier`, `updated_at`, `created_at`) values (0, 7, 9, ?, 1, -500000000000000000000000000000000000000.000000000000, ?, ?, 0, 2024-01-01 09:23:56, 2024-01-01 09:23:56))&quot;))]</value>
+      <webElementGuid>3e85ada3-45c1-4172-9c8a-e54cd3b67e5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

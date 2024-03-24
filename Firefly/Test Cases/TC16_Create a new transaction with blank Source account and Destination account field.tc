@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16_Create a new transaction with blank Source account and Destination account field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7dd2009-441e-4f1f-815e-2dba1ee65538</testCaseGuid>
+</TestCaseEntity>

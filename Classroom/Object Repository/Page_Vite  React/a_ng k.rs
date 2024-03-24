@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng k</name>
+   <tag></tag>
+   <elementGuidId>5faa85a8-ca34-4754-8644-6869b0ef85fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/ul[2]/li[2]/span/button/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-overflow-item.ant-menu-item.ant-menu-item-active.ant-menu-item-only-child > span.ant-menu-title-content > button.ant-btn.css-1g853jt.ant-btn-default > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7c62618-6b5d-4679-b916-727f54812cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-up</value>
+      <webElementGuid>feb670fc-8e61-4aa2-9ea9-c7600073efb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng kí</value>
+      <webElementGuid>ceca17c3-bf6e-42dc-80c6-643b20e54110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-layout layout css-1g853jt&quot;]/header[@class=&quot;ant-layout-header css-1g853jt&quot;]/ul[@class=&quot;ant-menu-overflow ant-menu ant-menu-root ant-menu-horizontal ant-menu-light css-1g853jt&quot;]/li[@class=&quot;ant-menu-overflow-item ant-menu-item ant-menu-item-active ant-menu-item-only-child&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/button[@class=&quot;ant-btn css-1g853jt ant-btn-default&quot;]/a[1]</value>
+      <webElementGuid>12f7677e-3db7-43ee-be49-6b3b549af4bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/ul[2]/li[2]/span/button/a</value>
+      <webElementGuid>30c109d7-0484-49f6-8ba7-998e5d616c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng kí')]</value>
+      <webElementGuid>09ee2f19-6ee0-4577-a2bf-b8fabde86e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-up')]</value>
+      <webElementGuid>522d1488-48c1-4677-bca0-1b38ca9f97ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/button/a</value>
+      <webElementGuid>14209a39-f616-4e35-bae1-3923b5706137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-up' and (text() = 'Đăng kí' or . = 'Đăng kí')]</value>
+      <webElementGuid>c8d6b220-1f33-4204-a8d5-e8164521c8c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

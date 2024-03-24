@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>5b8376cd-0612-4f40-96e7-0e5258f4da45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='piggy-sortable']/tbody/tr[2]/td[9]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-default.btn-xs.addMoney > span.fa.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09b2bfd9-d8b9-4b1e-a520-c5b4bbcca64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>07975f30-5e8a-4a9e-8ec5-71ea6a8f267a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>8b6869c4-6d02-4710-9b83-7236ffb70914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;piggy-sortable&quot;)/tbody[@class=&quot;piggy-connected-list ui-sortable&quot;]/tr[@class=&quot;piggy-sortable&quot;]/td[@class=&quot;hidden-sm hidden-xs&quot;]/a[@class=&quot;btn btn-default btn-xs addMoney&quot;]/span[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>112acdfa-b2f7-4980-b444-1b94c1169179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='piggy-sortable']/tbody/tr[2]/td[9]/a/span</value>
+      <webElementGuid>b5ecf71f-69e0-4c7f-b22b-8b3ee49bebd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a/span</value>
+      <webElementGuid>5bac2dbd-c3ed-485f-9d9b-c350b0744068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
